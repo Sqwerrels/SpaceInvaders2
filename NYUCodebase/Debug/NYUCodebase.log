@@ -1,0 +1,27 @@
+﻿Build started 3/4/2016 2:14:27 AM.
+     1>Project "C:\Users\Kevin\Downloads\Space Invaders\CS3113-master\project_template\Windows\NYUCodebase\NYUCodebase\NYUCodebase.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\SDL2\include /IC:\SDL2_image\include /IC:\glew\include /IC:\SDL2_mixer\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _WINDOWS /D _MBCS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /wd4996 /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\kevin\downloads\space invaders\cs3113-master\project_template\windows\nyucodebase\nyucodebase\main.cpp(119): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kevin\downloads\space invaders\cs3113-master\project_template\windows\nyucodebase\nyucodebase\main.cpp(219): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\kevin\downloads\space invaders\cs3113-master\project_template\windows\nyucodebase\nyucodebase\main.cpp(229): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\kevin\downloads\space invaders\cs3113-master\project_template\windows\nyucodebase\nyucodebase\main.cpp(255): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\kevin\downloads\space invaders\cs3113-master\project_template\windows\nyucodebase\nyucodebase\main.cpp(276): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\kevin\downloads\space invaders\cs3113-master\project_template\windows\nyucodebase\nyucodebase\main.cpp(288): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\kevin\downloads\space invaders\cs3113-master\project_template\windows\nyucodebase\nyucodebase\main.cpp(350): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kevin\downloads\space invaders\cs3113-master\project_template\windows\nyucodebase\nyucodebase\main.cpp(368): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kevin\downloads\space invaders\cs3113-master\project_template\windows\nyucodebase\nyucodebase\main.cpp(377): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kevin\downloads\space invaders\cs3113-master\project_template\windows\nyucodebase\nyucodebase\main.cpp(385): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kevin\downloads\space invaders\cs3113-master\project_template\windows\nyucodebase\nyucodebase\main.cpp(393): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\kevin\downloads\space invaders\cs3113-master\project_template\windows\nyucodebase\nyucodebase\main.cpp(454): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Kevin\Downloads\Space Invaders\CS3113-master\project_template\Windows\NYUCodebase\Debug\NYUCodebase.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\SDL2_mixer\lib\x86 /LIBPATH:C:\SDL2\lib\x86 /LIBPATH:C:\SDL2_image\lib\x86 /LIBPATH:C:\glew\lib\Release\Win32 SDL2.lib SDL2_mixer.lib glew32.lib SDL2main.lib SDL2_image.lib OpenGL32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Kevin\Downloads\Space Invaders\CS3113-master\project_template\Windows\NYUCodebase\Debug\NYUCodebase.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Kevin\Downloads\Space Invaders\CS3113-master\project_template\Windows\NYUCodebase\Debug\NYUCodebase.lib" /MACHINE:X86 Debug\main.obj
+         Debug\Matrix.obj
+         Debug\ShaderProgram.obj
+         NYUCodebase.vcxproj -> C:\Users\Kevin\Downloads\Space Invaders\CS3113-master\project_template\Windows\NYUCodebase\Debug\NYUCodebase.exe
+     1>Done Building Project "C:\Users\Kevin\Downloads\Space Invaders\CS3113-master\project_template\Windows\NYUCodebase\NYUCodebase\NYUCodebase.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.69
